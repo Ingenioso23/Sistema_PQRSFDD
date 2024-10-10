@@ -1,0 +1,33 @@
+# Dependencias de Node.js
+node_modules/
+
+# Archivos de entorno
+.env
+
+# Archivos de configuración de IDE
+.vscode/
+.idea/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de compilación
+dist/
+build/
+
+# Archivos de logs
+logs
+*.log
+
+# Archivos temporales de sistema
+*.tmp
+
+# Archivos de configuración de MySQL
+*.sql
+
+# Archivos de respaldo
+*.bak
+
+# Archivos de Power BI
+Powerbi_dashboard/
